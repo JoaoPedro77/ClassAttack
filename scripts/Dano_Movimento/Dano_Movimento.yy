@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Dano_Movimento",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Dano_Movimento",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
